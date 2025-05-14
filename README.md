@@ -22,6 +22,7 @@ Este é um projeto inspirado no [Linktree](https://linktr.ee), desenvolvido com 
 ## 🔐 Autenticação
 
 O login é feito via **Firebase Authentication**, utilizando o método **Email e Senha**.
+
 Pode ser acessado utilizando o login "teste123@teste.com" e senha "teste123"
 
 
